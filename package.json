@@ -1,0 +1,24 @@
+{
+  "name": "bnb-bot",
+  "version": "1.0.0",
+  "description": "This repository contains the fiddlings I created by reverse engineering the wire-protocol of the \"node webkit\" (desktop) version of the [Build 'n Bump game](https://roppychop.itch.io/build-n-bump).",
+  "main": "bot.js",
+  "dependencies": {
+    "socket.io-client": "^0.9.17",
+    "ws": "1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euank/bnb-bot.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/euank/bnb-bot/issues"
+  },
+  "homepage": "https://github.com/euank/bnb-bot#readme"
+}
